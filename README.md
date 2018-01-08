@@ -11,5 +11,6 @@ This bot buys ETH with BTC at Kraken, transfers the ETH from Kraken to QuadrigaC
 - [krakenex](https://github.com/veox/python3-krakenex)
 
 ## Usage
-```python3 bot qua_client_id qua_api_key qua_api_secret kra_api_key kra_private_key
+```
+python3 bot qua_client_id qua_api_key qua_api_secret kra_api_key kra_private_key
 ```
