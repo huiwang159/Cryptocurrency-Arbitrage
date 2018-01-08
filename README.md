@@ -7,3 +7,7 @@ This trade bot buys ETH with BTC at Kraken, transfers the ETH from Kraken to Qua
 Thus, the bot starts with BTC at Kraken, and ETH at QuadrigaCX.
 While buying ETH with BTC at Kraken, the bot finds the lowest sellers' ask.
 While selling ETH for BTC at QuadrigaCX, the bot find the highest buyers' bid.
+
+## Requirements
+- requests
+- krakenex
