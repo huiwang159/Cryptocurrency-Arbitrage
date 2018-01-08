@@ -21,7 +21,7 @@ class Qua:
         self.ec = 'eth_cad'
         self.lc = 'ltc_cad'
         self.lb = 'ltc_btc'
-        self.e_ad = self.ether_deposit()    # e_ad for ethereum address
+        self.e_ad = self.ether_deposit()    # e_ad stands for ethereum address
 
     def payload(self):
         nonce = str(int(time.time() * 1000))
