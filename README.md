@@ -1,4 +1,4 @@
-# Cryptocurrency-Aribtrage-Trade-Bot
+# Cryptocurrency Aribtrage
 
 ## Introduction
 Ethereum (ETH) is more expensive at QuadrigaCX than at Kraken. For example, at an instance during programming this bot, 1 ETH = 0.075500 Bitcoin (BTC) at Kraken, while 1 ETH = 0.07755823 BTC at QuadrigaCX. The difference amounts to about 40 CAD. This offers an arbitrage oppurtunity.
